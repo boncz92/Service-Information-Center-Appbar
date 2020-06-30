@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SiC_Appbar.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Domain_Name" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">LDAP://DOMAINNAME</Value>
+    </Setting>
+    <Setting Name="Password_Pref" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Static</Value>
+    </Setting>
+    <Setting Name="Password_String" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Monday1.</Value>
+    </Setting>
+    <Setting Name="Appbar_Orientation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Top</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
